@@ -25,8 +25,8 @@ of these credentials.
 
 3. Navigate to `client_secret` and put your `client_secret` there.
 
-4. open the `push_payments.php` and fill in on missing variables indicated with `*******************` 
+4. open the `push_payments.php` and fill in on missing variables indicated with `*******************`. Do the same for disbursements if need be. 
 
-5. You can now open your localhost (using xampp/wampp) and run the `push_payments.php` file using localhost in your browser.
+5. You can now open your localhost (using xampp/wampp) and run the `push_payments.php` to push payments or `disbursements.php` to transfer payments.
 
 6. This repository is not affliated with AIRTEL.

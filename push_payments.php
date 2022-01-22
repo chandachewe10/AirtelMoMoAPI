@@ -17,7 +17,7 @@ $client = new Client();
 
 
 //Enter phone number here without the country code
-$phone_number = "97****00";
+$phone_number = "973750029";
 
 //Country Code
 $country_code = "ZM";
@@ -26,7 +26,7 @@ $country_code = "ZM";
 $currency_code = "ZMW";
 
 //Amount to be sent 
-$amount = "*****";
+$amount = "20";
 
 
 

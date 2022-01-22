@@ -8,10 +8,10 @@ $client = new Client();
 
 
 //Enter Client_id
-$client_id = "*********************************";
+$client_id = "***************************************";
 
 //Enter Client_secret
-$client_secret = "*******************************";
+$client_secret = "************************************";
 
 //Grant Type
 $grant_type = "client_credentials";
