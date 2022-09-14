@@ -17,7 +17,7 @@ $client = new Client();
 
 
 //Enter phone number here without the country code
-$phone_number = "973750029";
+$phone_number = "97*****9";
 
 //Country Code
 $country_code = "ZM";
