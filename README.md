@@ -3,9 +3,9 @@ AIRTEL Money Developer API using PHP For Pushing Payments From a Customer.
 
 Documentation and official resources can be found at AIRTEL Developer Portal: https://developers.airtel.africa/login
 
-## Please note that Airtel does not provide free MoMo API Testing like MTN does. Hence for you
-## To get started you should complete the following in full.
-## Prerequisites
+ Please note that Airtel does not provide free MoMo API Testing like MTN does. Hence for you
+ To get started you should complete the following in full.
+ ## Prerequisites
 1. You have Signed Up at: https://developers.airtel.africa/login
 
 2. You have created an application there and your application has been approved.
